@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @YUG3011
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning in marwadi university
-- 💞️ I’m looking to collaborate on MERN STACK DEVELOPER
+- 💞️ I’m looking to collaborate on
+MERN STACK DEVELOPER
 - 📫 How to reach me 
 INSTAGRAM - y_u_g_p_a_t_e_l_1290
 FACEBOOK - yug vachhani
